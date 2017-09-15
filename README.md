@@ -1,2 +1,2 @@
-# IBM-Visual-Recognition---Identifying-Junction-types-
-Image Recognition Demo - for assessment of digital motor claim assessments.  
+# Visual-Recognition-Demo
+Tutorial using IBM Watson's Visual Recognition service to identify the suit of a card
